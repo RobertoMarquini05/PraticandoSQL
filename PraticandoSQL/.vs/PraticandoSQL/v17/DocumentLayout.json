@@ -1,0 +1,42 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rober\\Desktop\\Praticando SQL\\PraticandoSQL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BE3FE411-2D5E-4E38-9B25-0BEBF29027E7}|..\\Praticando_SQL_Common_Table_Expressions\\Praticando_SQL_Common_Table_Expressions.csproj|c:\\users\\rober\\desktop\\praticando sql\\praticando_sql_common_table_expressions\\desafio10.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE3FE411-2D5E-4E38-9B25-0BEBF29027E7}|..\\Praticando_SQL_Common_Table_Expressions\\Praticando_SQL_Common_Table_Expressions.csproj|c:\\users\\rober\\desktop\\praticando sql\\praticando_sql_common_table_expressions\\desafio10.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Desafio10.sql ",
+              "DocumentMoniker": "C:\\Users\\rober\\Desktop\\Praticando SQL\\Praticando_SQL_Common_Table_Expressions\\Desafio10.sql",
+              "RelativeDocumentMoniker": "..\\Praticando_SQL_Common_Table_Expressions\\Desafio10.sql",
+              "ToolTip": "C:\\Users\\rober\\Desktop\\Praticando SQL\\Praticando_SQL_Common_Table_Expressions\\Desafio10.sql",
+              "RelativeToolTip": "..\\Praticando_SQL_Common_Table_Expressions\\Desafio10.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-10-19T15:07:02.614Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

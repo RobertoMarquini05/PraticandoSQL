@@ -1,0 +1,70 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PraticandoSQL", "PraticandoSQL.csproj", "{61954220-23F8-4836-8050-AE8403117227}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Praticando_SQL_utilizando_operadores_logicos", "..\Praticando_SQL_utilizando_operadores_logicos\Praticando_SQL_utilizando_operadores_logicos.csproj", "{5B87398F-779D-472C-939D-21748BBC3229}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Praticando_SQL_Entendendo_Funcoes_de_String", "..\Praticando_SQL_Entendendo_Funcoes_de_String\Praticando_SQL_Entendendo_Funcoes_de_String.csproj", "{48A3DCBA-B610-4C69-BFE3-3E1977ACE0A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Praticando_SQL_Trabalhando_com_Funcoes_de_Data", "..\Praticando_SQL_Trabalhando_com_Funcoes_de_Data\Praticando_SQL_Trabalhando_com_Funcoes_de_Data.csproj", "{553AB4DE-5CDB-4030-A9F3-BC4BE2890159}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Praticando_SQL_Entendendo_Funcoes_Numericas", "..\Praticando_SQL_Entendendo_Funcoes_Numericas\Praticando_SQL_Entendendo_Funcoes_Numericas.csproj", "{0C15C9A7-FBB1-4F8A-9280-2C4D2FA2730A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Praticando_SQL_Funcoes_de_Agregacao", "..\Praticando_SQL_Funcoes_de_Agregacao\Praticando_SQL_Funcoes_de_Agregacao.csproj", "{3CEF9E84-817A-4278-B2D5-3C4CDD75E572}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Praticando_SQL_Entendendo_SubConsultas", "..\Praticando_SQL_Entendendo_SubConsultas\Praticando_SQL_Entendendo_SubConsultas.csproj", "{DE92D514-BAB8-4E85-897C-C1755CF46BBB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Praticando_SQL_Combinando_Dados_Com_Joins", "..\Praticando_SQL_Combinando_Dados_Com_Joins\Praticando_SQL_Combinando_Dados_Com_Joins.csproj", "{44F95397-E51A-400D-8C4A-8B29C197640B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Praticando_SQL_Common_Table_Expressions", "..\Praticando_SQL_Common_Table_Expressions\Praticando_SQL_Common_Table_Expressions.csproj", "{BE3FE411-2D5E-4E38-9B25-0BEBF29027E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61954220-23F8-4836-8050-AE8403117227}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61954220-23F8-4836-8050-AE8403117227}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61954220-23F8-4836-8050-AE8403117227}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61954220-23F8-4836-8050-AE8403117227}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B87398F-779D-472C-939D-21748BBC3229}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B87398F-779D-472C-939D-21748BBC3229}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B87398F-779D-472C-939D-21748BBC3229}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B87398F-779D-472C-939D-21748BBC3229}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48A3DCBA-B610-4C69-BFE3-3E1977ACE0A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48A3DCBA-B610-4C69-BFE3-3E1977ACE0A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48A3DCBA-B610-4C69-BFE3-3E1977ACE0A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48A3DCBA-B610-4C69-BFE3-3E1977ACE0A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{553AB4DE-5CDB-4030-A9F3-BC4BE2890159}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{553AB4DE-5CDB-4030-A9F3-BC4BE2890159}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{553AB4DE-5CDB-4030-A9F3-BC4BE2890159}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{553AB4DE-5CDB-4030-A9F3-BC4BE2890159}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C15C9A7-FBB1-4F8A-9280-2C4D2FA2730A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C15C9A7-FBB1-4F8A-9280-2C4D2FA2730A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C15C9A7-FBB1-4F8A-9280-2C4D2FA2730A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C15C9A7-FBB1-4F8A-9280-2C4D2FA2730A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CEF9E84-817A-4278-B2D5-3C4CDD75E572}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CEF9E84-817A-4278-B2D5-3C4CDD75E572}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CEF9E84-817A-4278-B2D5-3C4CDD75E572}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CEF9E84-817A-4278-B2D5-3C4CDD75E572}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE92D514-BAB8-4E85-897C-C1755CF46BBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE92D514-BAB8-4E85-897C-C1755CF46BBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE92D514-BAB8-4E85-897C-C1755CF46BBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE92D514-BAB8-4E85-897C-C1755CF46BBB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44F95397-E51A-400D-8C4A-8B29C197640B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44F95397-E51A-400D-8C4A-8B29C197640B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44F95397-E51A-400D-8C4A-8B29C197640B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44F95397-E51A-400D-8C4A-8B29C197640B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE3FE411-2D5E-4E38-9B25-0BEBF29027E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE3FE411-2D5E-4E38-9B25-0BEBF29027E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE3FE411-2D5E-4E38-9B25-0BEBF29027E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE3FE411-2D5E-4E38-9B25-0BEBF29027E7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
